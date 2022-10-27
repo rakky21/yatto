@@ -1,0 +1,20 @@
+{
+  "name": "yatto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakky21/yatto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakky21/yatto/issues"
+  },
+  "homepage": "https://github.com/rakky21/yatto#readme",
+  "description": ""
+}
